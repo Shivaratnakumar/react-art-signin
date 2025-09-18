@@ -1,0 +1,12 @@
+/* Add this in your CSS file (e.g., App.css) */
+.highlight-green {
+    color: white;
+    background-color: green;
+    padding: 10px;
+  }
+  
+  .highlight-red {
+    color: white;
+    background-color: red;
+    padding: 10px;
+  }
